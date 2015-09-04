@@ -1,5 +1,3 @@
 # Geniee DMP iOS SDK
 
-## [日本語](SDK-Manual-ja.md)
-
-<!-- ## [English](SDK-Manual-en.md) -->
+[SDK 導入手順](https://github.com/geniee-sdk/dmp-ios-sdk/wiki/)
