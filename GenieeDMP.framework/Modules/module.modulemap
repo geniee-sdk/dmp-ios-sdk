@@ -1,0 +1,6 @@
+framework module GenieeDMP {
+  umbrella header "GenieeDMP.h"
+
+  export *
+  module * { export * }
+}
