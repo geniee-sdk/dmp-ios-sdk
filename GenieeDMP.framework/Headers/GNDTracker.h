@@ -70,6 +70,13 @@
 + (BOOL)isAutoSubmitForPayment;
 
 /**
+ *  インストール済みアプリ一覧情報を送信するか設定する。
+ *
+ *  @param flg 送信フラグ
+ */
++ (void)enableInstalledAppsCollection:(BOOL)flg;
+
+/**
  *  ログ出力レベルを設定する。
  *
  *  @param logLevel ログ出力レベル
