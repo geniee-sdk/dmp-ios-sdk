@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hHpYSo1FKKaGPff+NEPJOZQMkSY=
+		v3D3UdoHhi96OzsALlyI08p+dIU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -28,21 +28,49 @@
 	<key>files2</key>
 	<dict>
 		<key>Headers/GNDDefines.h</key>
-		<data>
-		HAngEdDviPFWrXdxQiWNJqqkqcg=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			HAngEdDviPFWrXdxQiWNJqqkqcg=
+			</data>
+			<key>hash2</key>
+			<data>
+			eeknAFi3ttZn53oVd7Lo7Kkn3ChxuWzje3op9q1rI1I=
+			</data>
+		</dict>
 		<key>Headers/GNDTracker.h</key>
-		<data>
-		iGxBKCSqSrM4pMNFhq0FKOnK3lI=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			iGxBKCSqSrM4pMNFhq0FKOnK3lI=
+			</data>
+			<key>hash2</key>
+			<data>
+			EBaqDIfxkodd2CT5vmgt9xyZROONMS9fprMAzPOVyjM=
+			</data>
+		</dict>
 		<key>Headers/GenieeDMP.h</key>
-		<data>
-		ADWkAjkA5uowd2s2v3aOt1Mmh3Y=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			ADWkAjkA5uowd2s2v3aOt1Mmh3Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			hsJb2tEYOdm5ivO2VQLXI1b3CwGVMlt+wWen64ZK9NI=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
-		<data>
-		PP/1KliSmS7+uynV1ehhOvisvuk=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			PP/1KliSmS7+uynV1ehhOvisvuk=
+			</data>
+			<key>hash2</key>
+			<data>
+			byOjrDw6f3uG5P4WOh9A1M2GXLCs6C7gJBYya203jMk=
+			</data>
+		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
